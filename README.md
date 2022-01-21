@@ -1,4 +1,15 @@
 # CountryFlags
-An simple java app to show all the country flags and what languages they use.
+A simple java app to show all the country flags and what languages they use.
 
-**HINT: Use Ctrl + F to search**
+View the list of country flags and languages here:
+* [data.md](docs/data.md)
+
+Data is generated from the apache commons-lang3 LocalUtils class.
+
+###**HINT: Use Ctrl + F to search**
+
+---
+
+Some dependencies used in this project:
+* apache commons-lang3
+* FlipTable by jakewharton
