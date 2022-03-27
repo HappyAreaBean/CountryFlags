@@ -6,10 +6,10 @@ View the list of country flags and languages here:
 
 Data is generated from the apache commons-lang3 LocaleUtils class.
 
-###**HINT: Use Ctrl + F to search**
+### **HINT: Use Ctrl + F to search**
 
 ---
 
 Some dependencies used in this project:
 * apache commons-lang3
-* FlipTable by jakewharton
+* [FlipTable by jakewharton](https://github.com/JakeWharton/flip-tables)
